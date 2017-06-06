@@ -1,0 +1,7 @@
+7 ADD 8 /* comentario en c */
+/* otro comentario */
+1 MUL 10 /* vaya
+por dios */
+4 DIV 2
+5 SUB 1
+/* ultimo */
