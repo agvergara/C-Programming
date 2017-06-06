@@ -9,4 +9,6 @@ Ejercicios sobre lenguaje C
 
   * Pipes
 
-  * Examenes
+* __Examenes___
+  * Calculadora
+  * Ponmayusculas
