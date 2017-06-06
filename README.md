@@ -1,12 +1,12 @@
 # C-Programming
 Ejercicios sobre lenguaje C
 * __Practicas__:
-** Llamadas al sistema:
-*** Open, Read, Write, Close
+ * Llamadas al sistema:
+  * Open, Read, Write, Close
 
-** Creacion de procesos:
-*** Fork
+ * Creacion de procesos:
+  * Fork
 
-** Pipes
+ * Pipes
 
-** Examenes
+ * Examenes
